@@ -1,0 +1,30 @@
+apiVersion: kubescheduler.config.k8s.io/v1
+kind: KubeSchedulerConfiguration
+clientConnection:
+  kubeconfig: "/etc/kubernetes/scheduler.conf"
+profiles:
+  - schedulerName: default-scheduler
+    plugins:
+      preScore:
+        enabled:
+        - name: RemoteScoring
+        disabled:
+        - name: "*"
+      score:
+        enabled:
+        - name: RemoteScoring
+        - name: NetMarks
+        disabled:
+        - name: "*"
+    pluginConfig:
+    - name: RemoteScoring
+      args:
+        remoteServerAddress: "<rl-server-url>/step"
+        namespaces:
+        - "rl-testbed"
+    - name: NetMarks
+      args:
+        prometheusAddress: "<prometheus-url>"
+        timeRangeInMinutes: 3
+        namespaces:
+        - "nm-testbed"

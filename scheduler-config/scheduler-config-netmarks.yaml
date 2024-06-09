@@ -1,0 +1,17 @@
+apiVersion: kubescheduler.config.k8s.io/v1
+kind: KubeSchedulerConfiguration
+clientConnection:
+  kubeconfig: "/etc/kubernetes/scheduler.conf"
+profiles:
+  - schedulerName: default-scheduler
+    plugins:
+      score:
+        enabled:
+        - name: NetMarks
+    pluginConfig:
+    - name: NetMarks
+      args:
+        prometheusAddress: "<prometheus-url>"
+        timeRangeInMinutes: 1
+        namespaces:
+        - "nm-testbed"
