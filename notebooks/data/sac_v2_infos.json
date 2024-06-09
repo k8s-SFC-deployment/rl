@@ -1,0 +1,5518 @@
+[
+    [
+        [
+            {
+                "e2eLatency": {
+                    "latency": 141400.87700000004,
+                    "count": 10
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2453.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2046.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 1133.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4199.0
+                    }
+                ],
+                "avgE2ELatency": 14140.087700000004,
+                "avgPowerConsumption": 2457.75,
+                "availability": 0.36666666666666664,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 61436.351,
+                    "count": 10
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2436.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2009.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 1878.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 3814.0
+                    }
+                ],
+                "avgE2ELatency": 6143.6351,
+                "avgPowerConsumption": 2534.25,
+                "availability": 0.4,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 136033.03000000003,
+                    "count": 12
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2815.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 1980.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 1893.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 2696.0
+                    }
+                ],
+                "avgE2ELatency": 11336.085833333336,
+                "avgPowerConsumption": 2346.0,
+                "availability": 0.43333333333333335,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 177368.93699999998,
+                    "count": 19
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2932.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2546.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 1315.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4187.0
+                    }
+                ],
+                "avgE2ELatency": 9335.207210526314,
+                "avgPowerConsumption": 2745.0,
+                "availability": 0.4666666666666667,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 91747.527,
+                    "count": 23
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2912.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2255.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 1419.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 3745.0
+                    }
+                ],
+                "avgE2ELatency": 3989.022913043478,
+                "avgPowerConsumption": 2582.75,
+                "availability": 0.4666666666666667,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 124313.98399999998,
+                    "count": 19
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2488.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2640.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2438.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4228.0
+                    }
+                ],
+                "avgE2ELatency": 6542.841263157894,
+                "avgPowerConsumption": 2948.5,
+                "availability": 0.5,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 108326.57599999997,
+                    "count": 19
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2476.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2863.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2794.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 3820.0
+                    }
+                ],
+                "avgE2ELatency": 5701.398736842104,
+                "avgPowerConsumption": 2988.25,
+                "availability": 0.5333333333333333,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 160388.89099999997,
+                    "count": 23
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2919.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2876.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2740.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4139.0
+                    }
+                ],
+                "avgE2ELatency": 6973.43004347826,
+                "avgPowerConsumption": 3168.5,
+                "availability": 0.5666666666666667,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 162442.878,
+                    "count": 22
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2997.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2208.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2944.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4014.0000000000005
+                    }
+                ],
+                "avgE2ELatency": 7383.767181818182,
+                "avgPowerConsumption": 3040.75,
+                "availability": 0.6,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 131207.77600000004,
+                    "count": 21
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2576.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2754.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 3416.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 1347.0
+                    }
+                ],
+                "avgE2ELatency": 6247.989333333336,
+                "avgPowerConsumption": 2523.25,
+                "availability": 0.6333333333333333,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 176154.39299999998,
+                    "count": 28
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2682.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2933.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 3820.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4434.0
+                    }
+                ],
+                "avgE2ELatency": 6291.228321428571,
+                "avgPowerConsumption": 3467.25,
+                "availability": 0.6666666666666666,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 183518.07,
+                    "count": 27
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2808.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3011.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2362.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4541.0
+                    }
+                ],
+                "avgE2ELatency": 6796.9655555555555,
+                "avgPowerConsumption": 3180.5,
+                "availability": 0.6666666666666666,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 125496.538,
+                    "count": 23
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2826.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2903.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 1518.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4521.0
+                    }
+                ],
+                "avgE2ELatency": 5456.3712173913045,
+                "avgPowerConsumption": 2942.0,
+                "availability": 0.6666666666666666,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 220409.13899999997,
+                    "count": 34
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2782.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3361.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2635.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 642.0
+                    }
+                ],
+                "avgE2ELatency": 6482.621735294117,
+                "avgPowerConsumption": 2355.0,
+                "availability": 0.7,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 155899.76799999998,
+                    "count": 22
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3029.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2762.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 3184.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4260.0
+                    }
+                ],
+                "avgE2ELatency": 7086.3530909090905,
+                "avgPowerConsumption": 3308.75,
+                "availability": 0.7,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 242989.26599999992,
+                    "count": 37
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2480.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3403.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 3340.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4256.0
+                    }
+                ],
+                "avgE2ELatency": 6567.2774594594575,
+                "avgPowerConsumption": 3369.75,
+                "availability": 0.7,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 236614.61600000004,
+                    "count": 40
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2330.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2505.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2735.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 2274.0
+                    }
+                ],
+                "avgE2ELatency": 5915.365400000001,
+                "avgPowerConsumption": 2461.0,
+                "availability": 0.7333333333333333,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 164990.62100000004,
+                    "count": 40
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2924.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3446.0
+                    }
+                ],
+                "avgE2ELatency": 4124.765525000001,
+                "avgPowerConsumption": 3185.0,
+                "availability": 0.7666666666666667,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 177447.90599999996,
+                    "count": 35
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3214.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3711.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 0.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4962.0
+                    }
+                ],
+                "avgE2ELatency": 5069.9401714285705,
+                "avgPowerConsumption": 2971.75,
+                "availability": 0.7666666666666667,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 137241.957,
+                    "count": 18
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2951.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3288.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4503.0
+                    }
+                ],
+                "avgE2ELatency": 7624.553166666667,
+                "avgPowerConsumption": 3580.6666666666665,
+                "availability": 0.8,
+                "TimeLimit.truncated": false
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "e2eLatency": {
+                    "latency": 108928.72899999998,
+                    "count": 23
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2498.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2381.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2714.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 3588.0
+                    }
+                ],
+                "avgE2ELatency": 4736.031695652173,
+                "avgPowerConsumption": 2795.25,
+                "availability": 0.36666666666666664,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 134010.01499999998,
+                    "count": 27
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2533.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3011.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 1971.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4276.0
+                    }
+                ],
+                "avgE2ELatency": 4963.333888888888,
+                "avgPowerConsumption": 2947.75,
+                "availability": 0.4,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 223291.73699999996,
+                    "count": 20
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3086.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2174.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2071.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 3934.0
+                    }
+                ],
+                "avgE2ELatency": 11164.586849999998,
+                "avgPowerConsumption": 2816.25,
+                "availability": 0.43333333333333335,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 121148.23300000001,
+                    "count": 19
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3108.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2589.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 1789.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4632.0
+                    }
+                ],
+                "avgE2ELatency": 6376.222789473684,
+                "avgPowerConsumption": 3029.5,
+                "availability": 0.4666666666666667,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 323794.637,
+                    "count": 19
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2536.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2570.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2993.0
+                    }
+                ],
+                "avgE2ELatency": 17041.823,
+                "avgPowerConsumption": 2699.6666666666665,
+                "availability": 0.4666666666666667,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 158074.72999999998,
+                    "count": 30
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2709.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2680.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2515.0
+                    }
+                ],
+                "avgE2ELatency": 5269.157666666666,
+                "avgPowerConsumption": 2634.666666666667,
+                "availability": 0.5,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 195405.33599999995,
+                    "count": 20
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3035.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2746.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 3391.0
+                    }
+                ],
+                "avgE2ELatency": 9770.266799999998,
+                "avgPowerConsumption": 3057.333333333333,
+                "availability": 0.5333333333333333,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 136355.372,
+                    "count": 9
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2946.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2330.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 3587.0
+                    }
+                ],
+                "avgE2ELatency": 15150.59688888889,
+                "avgPowerConsumption": 2954.333333333333,
+                "availability": 0.5666666666666667,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 245300.25800000003,
+                    "count": 31
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2538.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2965.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2713.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 3353.0
+                    }
+                ],
+                "avgE2ELatency": 7912.911548387097,
+                "avgPowerConsumption": 2892.25,
+                "availability": 0.5666666666666667,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 82164.51000000001,
+                    "count": 11
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2754.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2512.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2532.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4297.0
+                    }
+                ],
+                "avgE2ELatency": 7469.50090909091,
+                "avgPowerConsumption": 3023.75,
+                "availability": 0.5666666666666667,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 228402.86200000002,
+                    "count": 32
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3297.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2742.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 3212.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4372.0
+                    }
+                ],
+                "avgE2ELatency": 7137.589437500001,
+                "avgPowerConsumption": 3405.75,
+                "availability": 0.6,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 180609.81399999995,
+                    "count": 31
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3093.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2617.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2402.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4475.0
+                    }
+                ],
+                "avgE2ELatency": 5826.123032258063,
+                "avgPowerConsumption": 3146.75,
+                "availability": 0.6,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 234408.72100000002,
+                    "count": 32
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2829.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3129.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 719.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 872.0
+                    }
+                ],
+                "avgE2ELatency": 7325.272531250001,
+                "avgPowerConsumption": 1887.25,
+                "availability": 0.6,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 144049.589,
+                    "count": 20
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2509.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3090.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2850.0
+                    }
+                ],
+                "avgE2ELatency": 7202.479450000001,
+                "avgPowerConsumption": 2816.3333333333335,
+                "availability": 0.6333333333333333,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 93702.42899999999,
+                    "count": 27
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2352.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2900.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2290.0
+                    }
+                ],
+                "avgE2ELatency": 3470.460333333333,
+                "avgPowerConsumption": 2514.0,
+                "availability": 0.6666666666666666,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 107156.48699999998,
+                    "count": 19
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2951.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2671.0
+                    }
+                ],
+                "avgE2ELatency": 5639.8151052631565,
+                "avgPowerConsumption": 2811.0,
+                "availability": 0.6666666666666666,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 109650.821,
+                    "count": 36
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3340.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2814.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 1986.0
+                    }
+                ],
+                "avgE2ELatency": 3045.856138888889,
+                "avgPowerConsumption": 2713.333333333333,
+                "availability": 0.6666666666666666,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 125473.048,
+                    "count": 35
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3152.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3235.9999999999995
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2594.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 0.0
+                    }
+                ],
+                "avgE2ELatency": 3584.9442285714285,
+                "avgPowerConsumption": 2245.5,
+                "availability": 0.6666666666666666,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 95863.09400000001,
+                    "count": 28
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2866.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2962.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2616.0
+                    }
+                ],
+                "avgE2ELatency": 3423.681928571429,
+                "avgPowerConsumption": 2814.666666666667,
+                "availability": 0.7,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 151442.27800000002,
+                    "count": 35
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2478.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2984.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2786.0
+                    }
+                ],
+                "avgE2ELatency": 4326.9222285714295,
+                "avgPowerConsumption": 2749.333333333333,
+                "availability": 0.7,
+                "TimeLimit.truncated": false
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "e2eLatency": {
+                    "latency": 289301.925,
+                    "count": 19
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2655.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2968.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2362.0
+                    }
+                ],
+                "avgE2ELatency": 15226.417105263157,
+                "avgPowerConsumption": 2661.666666666667,
+                "availability": 0.36666666666666664,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 195624.556,
+                    "count": 32
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3283.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3141.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 1945.0
+                    }
+                ],
+                "avgE2ELatency": 6113.267375,
+                "avgPowerConsumption": 2789.6666666666665,
+                "availability": 0.4,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 132250.633,
+                    "count": 16
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3276.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2944.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2774.0
+                    }
+                ],
+                "avgE2ELatency": 8265.6645625,
+                "avgPowerConsumption": 2998.0,
+                "availability": 0.43333333333333335,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 152983.75100000002,
+                    "count": 28
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3042.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2685.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2069.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 1919.0
+                    }
+                ],
+                "avgE2ELatency": 5463.705392857143,
+                "avgPowerConsumption": 2428.75,
+                "availability": 0.43333333333333335,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 204271.90500000003,
+                    "count": 17
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2404.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2812.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 3023.0
+                    }
+                ],
+                "avgE2ELatency": 12015.994411764708,
+                "avgPowerConsumption": 2746.3333333333335,
+                "availability": 0.4666666666666667,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 246578.91199999998,
+                    "count": 33
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2601.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3275.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 3179.0
+                    }
+                ],
+                "avgE2ELatency": 7472.088242424242,
+                "avgPowerConsumption": 3018.3333333333335,
+                "availability": 0.5,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 257394.50099999996,
+                    "count": 35
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2976.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2848.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 1280.0
+                    }
+                ],
+                "avgE2ELatency": 7354.128599999999,
+                "avgPowerConsumption": 2368.0,
+                "availability": 0.5,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 68362.223,
+                    "count": 12
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2810.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3211.0
+                    }
+                ],
+                "avgE2ELatency": 5696.8519166666665,
+                "avgPowerConsumption": 3010.5,
+                "availability": 0.5333333333333333,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 114307.13800000002,
+                    "count": 16
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2880.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3522.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 1966.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 1882.0
+                    }
+                ],
+                "avgE2ELatency": 7144.196125000001,
+                "avgPowerConsumption": 2562.5,
+                "availability": 0.5333333333333333,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 179015.16900000002,
+                    "count": 41
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2715.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3539.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 3435.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4257.0
+                    }
+                ],
+                "avgE2ELatency": 4366.223634146342,
+                "avgPowerConsumption": 3486.5,
+                "availability": 0.5666666666666667,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 139036.584,
+                    "count": 33
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2389.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3525.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2681.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4496.0
+                    }
+                ],
+                "avgE2ELatency": 4213.229818181819,
+                "avgPowerConsumption": 3272.75,
+                "availability": 0.6,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 291260.262,
+                    "count": 29
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2944.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3357.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 4465.0
+                    }
+                ],
+                "avgE2ELatency": 10043.457310344827,
+                "avgPowerConsumption": 3588.666666666667,
+                "availability": 0.6333333333333333,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 232757.2639999999,
+                    "count": 39
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3049.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3695.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 4119.0
+                    }
+                ],
+                "avgE2ELatency": 5968.134974358972,
+                "avgPowerConsumption": 3621.0,
+                "availability": 0.6666666666666666,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 153544.41,
+                    "count": 44
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2695.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3600.9999999999995
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 3337.0000000000005
+                    }
+                ],
+                "avgE2ELatency": 3489.645681818182,
+                "avgPowerConsumption": 3211.0,
+                "availability": 0.6666666666666666,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 115496.56700000004,
+                    "count": 32
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2426.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3838.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 3784.0
+                    }
+                ],
+                "avgE2ELatency": 3609.267718750001,
+                "avgPowerConsumption": 3349.333333333333,
+                "availability": 0.7,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 166741.548,
+                    "count": 51
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2847.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3202.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 3670.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 2428.0
+                    }
+                ],
+                "avgE2ELatency": 3269.442117647059,
+                "avgPowerConsumption": 3036.75,
+                "availability": 0.7333333333333333,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 161921.347,
+                    "count": 43
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3083.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3484.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2674.0
+                    }
+                ],
+                "avgE2ELatency": 3765.6127209302326,
+                "avgPowerConsumption": 3080.3333333333335,
+                "availability": 0.7333333333333333,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 200522.57099999997,
+                    "count": 37
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2967.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3506.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 3540.0
+                    }
+                ],
+                "avgE2ELatency": 5419.528945945945,
+                "avgPowerConsumption": 3337.666666666667,
+                "availability": 0.7666666666666667,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 257621.18300000002,
+                    "count": 31
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2821.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3631.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2718.0
+                    }
+                ],
+                "avgE2ELatency": 8310.360741935485,
+                "avgPowerConsumption": 3056.6666666666665,
+                "availability": 0.8,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 133752.871,
+                    "count": 40
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2208.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3437.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 3099.0
+                    }
+                ],
+                "avgE2ELatency": 3343.8217750000003,
+                "avgPowerConsumption": 2914.666666666667,
+                "availability": 0.8333333333333334,
+                "TimeLimit.truncated": false
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "e2eLatency": {
+                    "latency": 113314.57,
+                    "count": 22
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3020.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2577.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2008.0
+                    }
+                ],
+                "avgE2ELatency": 5150.662272727273,
+                "avgPowerConsumption": 2535.0,
+                "availability": 0.3333333333333333,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 156062.416,
+                    "count": 21
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2884.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2323.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2308.0
+                    }
+                ],
+                "avgE2ELatency": 7431.543619047619,
+                "avgPowerConsumption": 2505.0,
+                "availability": 0.36666666666666664,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 125548.462,
+                    "count": 11
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2371.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2406.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2807.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 3347.0
+                    }
+                ],
+                "avgE2ELatency": 11413.496545454545,
+                "avgPowerConsumption": 2732.75,
+                "availability": 0.4,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 129416.21299999999,
+                    "count": 20
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2763.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2468.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 1751.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4055.0
+                    }
+                ],
+                "avgE2ELatency": 6470.810649999999,
+                "avgPowerConsumption": 2759.25,
+                "availability": 0.43333333333333335,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 276317.48500000004,
+                    "count": 15
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3373.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2344.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 0.0
+                    }
+                ],
+                "avgE2ELatency": 18421.16566666667,
+                "avgPowerConsumption": 1905.6666666666665,
+                "availability": 0.4666666666666667,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 121437.05299999999,
+                    "count": 26
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2938.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2521.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 1181.0
+                    }
+                ],
+                "avgE2ELatency": 4670.655884615384,
+                "avgPowerConsumption": 2213.3333333333335,
+                "availability": 0.5,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 233121.97999999998,
+                    "count": 24
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2485.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2616.0
+                    }
+                ],
+                "avgE2ELatency": 9713.415833333333,
+                "avgPowerConsumption": 2550.5,
+                "availability": 0.5,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 265525.625,
+                    "count": 15
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2622.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2828.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 1530.0
+                    }
+                ],
+                "avgE2ELatency": 17701.708333333332,
+                "avgPowerConsumption": 2326.6666666666665,
+                "availability": 0.5333333333333333,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 230034.34199999998,
+                    "count": 26
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3247.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2469.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 3044.0000000000005
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 2150.0
+                    }
+                ],
+                "avgE2ELatency": 8847.474692307691,
+                "avgPowerConsumption": 2727.5,
+                "availability": 0.5333333333333333,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 333110.76,
+                    "count": 38
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3116.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2879.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4308.0
+                    }
+                ],
+                "avgE2ELatency": 8766.072631578947,
+                "avgPowerConsumption": 3434.3333333333335,
+                "availability": 0.5666666666666667,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 122739.15,
+                    "count": 23
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2708.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2310.0
+                    }
+                ],
+                "avgE2ELatency": 5336.484782608695,
+                "avgPowerConsumption": 2509.0,
+                "availability": 0.5666666666666667,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 148288.873,
+                    "count": 30
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2416.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3185.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 875.0
+                    }
+                ],
+                "avgE2ELatency": 4942.962433333333,
+                "avgPowerConsumption": 2158.6666666666665,
+                "availability": 0.5666666666666667,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 143220.33999999997,
+                    "count": 23
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2526.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3159.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2303.0
+                    }
+                ],
+                "avgE2ELatency": 6226.971304347825,
+                "avgPowerConsumption": 2662.6666666666665,
+                "availability": 0.6,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 466463.00500000006,
+                    "count": 47
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2731.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3316.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2250.0
+                    }
+                ],
+                "avgE2ELatency": 9924.744787234044,
+                "avgPowerConsumption": 2765.6666666666665,
+                "availability": 0.6333333333333333,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 241801.38299999997,
+                    "count": 15
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3166.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3750.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2800.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 759.0
+                    }
+                ],
+                "avgE2ELatency": 16120.092199999997,
+                "avgPowerConsumption": 2618.75,
+                "availability": 0.6333333333333333,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 381145.88700000005,
+                    "count": 32
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2950.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 4063.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 3412.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4786.0
+                    }
+                ],
+                "avgE2ELatency": 11910.808968750001,
+                "avgPowerConsumption": 3802.75,
+                "availability": 0.6666666666666666,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 193566.94000000003,
+                    "count": 54
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2795.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3496.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 3461.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4276.0
+                    }
+                ],
+                "avgE2ELatency": 3584.5729629629636,
+                "avgPowerConsumption": 3507.0,
+                "availability": 0.6666666666666666,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 202546.48599999998,
+                    "count": 38
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2613.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3247.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 1791.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4331.0
+                    }
+                ],
+                "avgE2ELatency": 5330.170684210526,
+                "avgPowerConsumption": 2995.5,
+                "availability": 0.6666666666666666,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 160040.88999999996,
+                    "count": 30
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2603.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3813.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4642.0
+                    }
+                ],
+                "avgE2ELatency": 5334.6963333333315,
+                "avgPowerConsumption": 3686.0,
+                "availability": 0.6666666666666666,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 228201.183,
+                    "count": 24
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3033.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3513.0
+                    }
+                ],
+                "avgE2ELatency": 9508.382625,
+                "avgPowerConsumption": 3273.0,
+                "availability": 0.7,
+                "TimeLimit.truncated": false
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "e2eLatency": {
+                    "latency": 127060.054,
+                    "count": 16
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3066.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2566.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 1696.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4217.0
+                    }
+                ],
+                "avgE2ELatency": 7941.253375,
+                "avgPowerConsumption": 2886.25,
+                "availability": 0.3333333333333333,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 150408.431,
+                    "count": 8
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2921.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2938.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 1480.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4169.0
+                    }
+                ],
+                "avgE2ELatency": 18801.053875,
+                "avgPowerConsumption": 2877.0,
+                "availability": 0.3333333333333333,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 351343.079,
+                    "count": 15
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2768.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2590.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 1888.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4268.0
+                    }
+                ],
+                "avgE2ELatency": 23422.871933333336,
+                "avgPowerConsumption": 2878.5,
+                "availability": 0.3333333333333333,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 306146.548,
+                    "count": 24
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2393.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2573.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 1871.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 3997.0
+                    }
+                ],
+                "avgE2ELatency": 12756.106166666666,
+                "avgPowerConsumption": 2708.5,
+                "availability": 0.36666666666666664,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 328618.525,
+                    "count": 27
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2984.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2514.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2523.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4067.0
+                    }
+                ],
+                "avgE2ELatency": 12171.056481481482,
+                "avgPowerConsumption": 3022.0,
+                "availability": 0.4,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 170211.279,
+                    "count": 26
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3209.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2625.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2785.9999999999995
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4377.0
+                    }
+                ],
+                "avgE2ELatency": 6546.587653846154,
+                "avgPowerConsumption": 3249.25,
+                "availability": 0.4,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 186871.05,
+                    "count": 18
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2847.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2965.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 1686.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4125.0
+                    }
+                ],
+                "avgE2ELatency": 10381.724999999999,
+                "avgPowerConsumption": 2905.75,
+                "availability": 0.43333333333333335,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 189550.90699999998,
+                    "count": 33
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2887.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3069.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 1945.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 2662.0
+                    }
+                ],
+                "avgE2ELatency": 5743.966878787878,
+                "avgPowerConsumption": 2640.75,
+                "availability": 0.4666666666666667,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 229152.49899999998,
+                    "count": 25
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2466.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2673.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 778.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 3955.0
+                    }
+                ],
+                "avgE2ELatency": 9166.09996,
+                "avgPowerConsumption": 2468.0,
+                "availability": 0.4666666666666667,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 205999.027,
+                    "count": 41
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2534.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2844.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4599.0
+                    }
+                ],
+                "avgE2ELatency": 5024.366512195122,
+                "avgPowerConsumption": 3325.6666666666665,
+                "availability": 0.5,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 152004.84599999996,
+                    "count": 33
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3300.9999999999995
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2683.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4162.0
+                    }
+                ],
+                "avgE2ELatency": 4606.207454545453,
+                "avgPowerConsumption": 3382.0,
+                "availability": 0.5,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 248607.79499999995,
+                    "count": 31
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3168.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3216.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2950.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 2083.0
+                    }
+                ],
+                "avgE2ELatency": 8019.606290322579,
+                "avgPowerConsumption": 2854.25,
+                "availability": 0.5333333333333333,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 225753.36100000003,
+                    "count": 46
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2697.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3308.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 1502.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4134.0
+                    }
+                ],
+                "avgE2ELatency": 4907.681760869566,
+                "avgPowerConsumption": 2910.25,
+                "availability": 0.5333333333333333,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 117356.96299999999,
+                    "count": 27
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2331.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2683.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4564.0
+                    }
+                ],
+                "avgE2ELatency": 4346.554185185185,
+                "avgPowerConsumption": 3192.666666666667,
+                "availability": 0.5333333333333333,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 164222.42800000004,
+                    "count": 37
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3130.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2788.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 726.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4211.0
+                    }
+                ],
+                "avgE2ELatency": 4438.444000000001,
+                "avgPowerConsumption": 2713.75,
+                "availability": 0.5333333333333333,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 115306.049,
+                    "count": 30
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2875.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3153.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2858.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4652.0
+                    }
+                ],
+                "avgE2ELatency": 3843.5349666666666,
+                "avgPowerConsumption": 3384.5,
+                "availability": 0.5333333333333333,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 228065.25799999989,
+                    "count": 47
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2904.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3465.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2982.0
+                    }
+                ],
+                "avgE2ELatency": 4852.452297872338,
+                "avgPowerConsumption": 3117.0,
+                "availability": 0.5666666666666667,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 115462.72600000001,
+                    "count": 30
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2602.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3521.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 3414.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4482.0
+                    }
+                ],
+                "avgE2ELatency": 3848.757533333334,
+                "avgPowerConsumption": 3504.75,
+                "availability": 0.6,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 164025.47399999996,
+                    "count": 44
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3347.9999999999995
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3560.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2822.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4070.0
+                    }
+                ],
+                "avgE2ELatency": 3727.851681818181,
+                "avgPowerConsumption": 3450.0,
+                "availability": 0.6,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 169944.22,
+                    "count": 40
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3366.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3923.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 3227.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 892.0
+                    }
+                ],
+                "avgE2ELatency": 4248.6055,
+                "avgPowerConsumption": 2852.0,
+                "availability": 0.6333333333333333,
+                "TimeLimit.truncated": false
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "e2eLatency": {
+                    "latency": 243007.69700000004,
+                    "count": 20
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3000.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2367.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2934.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 663.0
+                    }
+                ],
+                "avgE2ELatency": 12150.384850000002,
+                "avgPowerConsumption": 2241.0,
+                "availability": 0.36666666666666664,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 226499.065,
+                    "count": 24
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2790.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2856.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 3183.0
+                    }
+                ],
+                "avgE2ELatency": 9437.461041666667,
+                "avgPowerConsumption": 2943.0,
+                "availability": 0.36666666666666664,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 107246.042,
+                    "count": 6
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2469.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2586.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2983.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 556.0
+                    }
+                ],
+                "avgE2ELatency": 17874.340333333334,
+                "avgPowerConsumption": 2148.5,
+                "availability": 0.36666666666666664,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 195604.218,
+                    "count": 13
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2480.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2504.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2737.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4037.0
+                    }
+                ],
+                "avgE2ELatency": 15046.478307692307,
+                "avgPowerConsumption": 2939.5,
+                "availability": 0.4,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 104079.22200000001,
+                    "count": 22
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3017.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2470.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2422.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4108.0
+                    }
+                ],
+                "avgE2ELatency": 4730.873727272728,
+                "avgPowerConsumption": 3004.25,
+                "availability": 0.43333333333333335,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 40316.127,
+                    "count": 11
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2753.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2109.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2476.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4561.0
+                    }
+                ],
+                "avgE2ELatency": 3665.1024545454547,
+                "avgPowerConsumption": 2974.75,
+                "availability": 0.43333333333333335,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 346805.9900000001,
+                    "count": 18
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2623.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2422.0
+                    }
+                ],
+                "avgE2ELatency": 19266.99944444445,
+                "avgPowerConsumption": 2522.5,
+                "availability": 0.43333333333333335,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 142864.176,
+                    "count": 10
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2871.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 1898.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 949.0
+                    }
+                ],
+                "avgE2ELatency": 14286.4176,
+                "avgPowerConsumption": 1905.9999999999998,
+                "availability": 0.4666666666666667,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 191453.14200000002,
+                    "count": 38
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2848.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2472.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 3621.0
+                    }
+                ],
+                "avgE2ELatency": 5038.240578947369,
+                "avgPowerConsumption": 2980.3333333333335,
+                "availability": 0.5,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 168366.488,
+                    "count": 28
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2894.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2476.0
+                    }
+                ],
+                "avgE2ELatency": 6013.088857142858,
+                "avgPowerConsumption": 2685.0,
+                "availability": 0.5333333333333333,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 253414.85200000004,
+                    "count": 42
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3015.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2890.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 1526.0000000000002
+                    }
+                ],
+                "avgE2ELatency": 6033.686952380954,
+                "avgPowerConsumption": 2477.0,
+                "availability": 0.5333333333333333,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 133603.384,
+                    "count": 30
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2344.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3228.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 340.0
+                    }
+                ],
+                "avgE2ELatency": 4453.446133333333,
+                "avgPowerConsumption": 1970.6666666666667,
+                "availability": 0.5333333333333333,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 343216.621,
+                    "count": 30
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2332.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2969.0
+                    }
+                ],
+                "avgE2ELatency": 11440.554033333332,
+                "avgPowerConsumption": 2650.5,
+                "availability": 0.5666666666666667,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 66040.075,
+                    "count": 13
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3011.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2314.0
+                    }
+                ],
+                "avgE2ELatency": 5080.005769230769,
+                "avgPowerConsumption": 2662.5,
+                "availability": 0.5666666666666667,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 138630.46199999997,
+                    "count": 23
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3023.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2745.0
+                    }
+                ],
+                "avgE2ELatency": 6027.411391304347,
+                "avgPowerConsumption": 2884.0,
+                "availability": 0.5666666666666667,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 116245.88400000002,
+                    "count": 25
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2745.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2358.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 1675.0
+                    }
+                ],
+                "avgE2ELatency": 4649.835360000001,
+                "avgPowerConsumption": 2259.3333333333335,
+                "availability": 0.6,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 136427.85899999997,
+                    "count": 35
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2418.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2763.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 976.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 5018.0
+                    }
+                ],
+                "avgE2ELatency": 3897.9388285714276,
+                "avgPowerConsumption": 2793.75,
+                "availability": 0.6333333333333333,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 124304.81400000001,
+                    "count": 33
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3181.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3375.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 762.0
+                    }
+                ],
+                "avgE2ELatency": 3766.8125454545457,
+                "avgPowerConsumption": 2439.333333333333,
+                "availability": 0.6333333333333333,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 112574.25600000001,
+                    "count": 36
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2857.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2713.0
+                    }
+                ],
+                "avgE2ELatency": 3127.0626666666667,
+                "avgPowerConsumption": 2785.0,
+                "availability": 0.6666666666666666,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 212848.56900000005,
+                    "count": 38
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2875.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2658.0
+                    }
+                ],
+                "avgE2ELatency": 5601.278131578949,
+                "avgPowerConsumption": 2766.5,
+                "availability": 0.7,
+                "TimeLimit.truncated": false
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "e2eLatency": {
+                    "latency": 193102.30800000002,
+                    "count": 23
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2432.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 1112.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2288.0
+                    }
+                ],
+                "avgE2ELatency": 8395.752521739132,
+                "avgPowerConsumption": 1944.0,
+                "availability": 0.3333333333333333,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 169282.594,
+                    "count": 15
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2734.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2288.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2623.0
+                    }
+                ],
+                "avgE2ELatency": 11285.506266666667,
+                "avgPowerConsumption": 2548.3333333333335,
+                "availability": 0.3333333333333333,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 212630.862,
+                    "count": 22
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3085.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2640.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 3188.0
+                    }
+                ],
+                "avgE2ELatency": 9665.039181818182,
+                "avgPowerConsumption": 2971.0,
+                "availability": 0.36666666666666664,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 351960.495,
+                    "count": 15
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2792.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2488.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 3628.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 600.0
+                    }
+                ],
+                "avgE2ELatency": 23464.033,
+                "avgPowerConsumption": 2377.0,
+                "availability": 0.4,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 144406.69499999998,
+                    "count": 19
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2530.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2377.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 1516.0000000000002
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 3726.0
+                    }
+                ],
+                "avgE2ELatency": 7600.352368421051,
+                "avgPowerConsumption": 2537.25,
+                "availability": 0.4,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 126349.63000000003,
+                    "count": 32
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2499.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2835.0
+                    }
+                ],
+                "avgE2ELatency": 3948.425937500001,
+                "avgPowerConsumption": 2667.0,
+                "availability": 0.4,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 144809.898,
+                    "count": 13
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2530.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2248.0
+                    }
+                ],
+                "avgE2ELatency": 11139.222923076923,
+                "avgPowerConsumption": 2389.0,
+                "availability": 0.43333333333333335,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 145474.854,
+                    "count": 28
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2991.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2502.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2875.0
+                    }
+                ],
+                "avgE2ELatency": 5195.5305,
+                "avgPowerConsumption": 2789.3333333333335,
+                "availability": 0.4666666666666667,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 325131.44,
+                    "count": 33
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2926.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2881.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 1903.0
+                    }
+                ],
+                "avgE2ELatency": 9852.467878787878,
+                "avgPowerConsumption": 2570.0,
+                "availability": 0.4666666666666667,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 176651.678,
+                    "count": 48
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2494.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2869.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 899.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 1273.0
+                    }
+                ],
+                "avgE2ELatency": 3680.243291666667,
+                "avgPowerConsumption": 1883.75,
+                "availability": 0.5,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 146978.92,
+                    "count": 46
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2589.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2963.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 3199.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4339.0
+                    }
+                ],
+                "avgE2ELatency": 3195.1939130434785,
+                "avgPowerConsumption": 3272.5,
+                "availability": 0.5333333333333333,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 284432.29,
+                    "count": 38
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2970.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3035.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 1153.0
+                    }
+                ],
+                "avgE2ELatency": 7485.060263157894,
+                "avgPowerConsumption": 2386.0,
+                "availability": 0.5666666666666667,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 269410.02,
+                    "count": 45
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2917.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3355.0
+                    }
+                ],
+                "avgE2ELatency": 5986.8893333333335,
+                "avgPowerConsumption": 3136.0,
+                "availability": 0.6,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 212214.68699999998,
+                    "count": 38
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2655.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3236.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2351.0
+                    }
+                ],
+                "avgE2ELatency": 5584.597026315789,
+                "avgPowerConsumption": 2747.3333333333335,
+                "availability": 0.6333333333333333,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 195463.291,
+                    "count": 45
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2234.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3477.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2273.0
+                    }
+                ],
+                "avgE2ELatency": 4343.628688888889,
+                "avgPowerConsumption": 2661.333333333333,
+                "availability": 0.6666666666666666,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 159848.951,
+                    "count": 42
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2716.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3171.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 2527.0
+                    }
+                ],
+                "avgE2ELatency": 3805.9274047619047,
+                "avgPowerConsumption": 2804.666666666667,
+                "availability": 0.6666666666666666,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 292536.839,
+                    "count": 28
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3333.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3335.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 954.0
+                    }
+                ],
+                "avgE2ELatency": 10447.74425,
+                "avgPowerConsumption": 2540.666666666667,
+                "availability": 0.7,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 74732.40200000003,
+                    "count": 31
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2903.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3025.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 1889.0
+                    }
+                ],
+                "avgE2ELatency": 2410.7226451612914,
+                "avgPowerConsumption": 2605.6666666666665,
+                "availability": 0.7,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 175676.209,
+                    "count": 39
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2620.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3405.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 3048.0
+                    }
+                ],
+                "avgE2ELatency": 4504.51817948718,
+                "avgPowerConsumption": 3024.3333333333335,
+                "availability": 0.7333333333333333,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 87564.594,
+                    "count": 28
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2749.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3410.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2649.0
+                    }
+                ],
+                "avgE2ELatency": 3127.3069285714287,
+                "avgPowerConsumption": 2936.0,
+                "availability": 0.7333333333333333,
+                "TimeLimit.truncated": false
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "e2eLatency": {
+                    "latency": 218662.25,
+                    "count": 14
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2688.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 281.0
+                    }
+                ],
+                "avgE2ELatency": 15618.732142857143,
+                "avgPowerConsumption": 1484.5,
+                "availability": 0.36666666666666664,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 119354.937,
+                    "count": 7
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2791.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2860.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 1025.0
+                    }
+                ],
+                "avgE2ELatency": 17050.705285714288,
+                "avgPowerConsumption": 2225.3333333333335,
+                "availability": 0.4,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 150712.82600000003,
+                    "count": 22
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3165.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2885.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 1829.0
+                    }
+                ],
+                "avgE2ELatency": 6850.583000000001,
+                "avgPowerConsumption": 2626.333333333333,
+                "availability": 0.43333333333333335,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 98564.59599999999,
+                    "count": 7
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2911.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2363.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 1413.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 2327.0
+                    }
+                ],
+                "avgE2ELatency": 14080.65657142857,
+                "avgPowerConsumption": 2253.5,
+                "availability": 0.4666666666666667,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 200403.19799999997,
+                    "count": 17
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2631.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2417.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 1555.0
+                    }
+                ],
+                "avgE2ELatency": 11788.423411764705,
+                "avgPowerConsumption": 2201.0,
+                "availability": 0.5,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 294130.593,
+                    "count": 29
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2793.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2822.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2441.0
+                    }
+                ],
+                "avgE2ELatency": 10142.43424137931,
+                "avgPowerConsumption": 2685.333333333333,
+                "availability": 0.5333333333333333,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 139007.137,
+                    "count": 24
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3002.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2549.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 1981.0
+                    }
+                ],
+                "avgE2ELatency": 5791.964041666666,
+                "avgPowerConsumption": 2510.6666666666665,
+                "availability": 0.5666666666666667,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 203339.911,
+                    "count": 39
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2910.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2497.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2165.0
+                    }
+                ],
+                "avgE2ELatency": 5213.843871794872,
+                "avgPowerConsumption": 2524.0,
+                "availability": 0.6,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 132155.811,
+                    "count": 28
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2682.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2891.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2310.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4575.0
+                    }
+                ],
+                "avgE2ELatency": 4719.850392857143,
+                "avgPowerConsumption": 3114.5,
+                "availability": 0.6333333333333333,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 204739.18300000002,
+                    "count": 29
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2649.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2614.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 672.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4451.0
+                    }
+                ],
+                "avgE2ELatency": 7059.971827586208,
+                "avgPowerConsumption": 2596.5,
+                "availability": 0.6666666666666666,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 84749.693,
+                    "count": 19
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2866.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2701.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 694.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 696.0
+                    }
+                ],
+                "avgE2ELatency": 4460.510157894737,
+                "avgPowerConsumption": 1739.25,
+                "availability": 0.7,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 208819.45899999994,
+                    "count": 33
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2816.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3051.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 3173.0
+                    }
+                ],
+                "avgE2ELatency": 6327.862393939392,
+                "avgPowerConsumption": 3013.333333333333,
+                "availability": 0.7333333333333333,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 185465.00100000002,
+                    "count": 20
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2900.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2447.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 3361.0
+                    }
+                ],
+                "avgE2ELatency": 9273.25005,
+                "avgPowerConsumption": 2902.6666666666665,
+                "availability": 0.7666666666666667,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 231850.03700000007,
+                    "count": 45
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2350.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2901.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 1370.0
+                    }
+                ],
+                "avgE2ELatency": 5152.223044444446,
+                "avgPowerConsumption": 2207.0,
+                "availability": 0.7666666666666667,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 177709.07100000005,
+                    "count": 36
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2691.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3451.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 0.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 1684.0
+                    }
+                ],
+                "avgE2ELatency": 4936.3630833333345,
+                "avgPowerConsumption": 1956.5,
+                "availability": 0.7666666666666667,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 116456.23700000001,
+                    "count": 32
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3300.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3794.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4458.0
+                    }
+                ],
+                "avgE2ELatency": 3639.2574062500003,
+                "avgPowerConsumption": 3850.666666666667,
+                "availability": 0.8,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 258763.02899999995,
+                    "count": 41
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3169.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3200.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4421.0
+                    }
+                ],
+                "avgE2ELatency": 6311.293390243901,
+                "avgPowerConsumption": 3596.666666666667,
+                "availability": 0.8,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 177615.15899999999,
+                    "count": 25
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2890.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3335.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2049.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 2192.0
+                    }
+                ],
+                "avgE2ELatency": 7104.60636,
+                "avgPowerConsumption": 2616.5,
+                "availability": 0.8,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 147301.47100000002,
+                    "count": 29
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2500.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3172.0
+                    }
+                ],
+                "avgE2ELatency": 5079.361068965518,
+                "avgPowerConsumption": 2836.0,
+                "availability": 0.8,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 122125.022,
+                    "count": 25
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3040.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3393.0
+                    }
+                ],
+                "avgE2ELatency": 4885.00088,
+                "avgPowerConsumption": 3216.5,
+                "availability": 0.8,
+                "TimeLimit.truncated": false
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "e2eLatency": {
+                    "latency": 181459.59600000002,
+                    "count": 24
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3075.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 1779.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2210.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 3992.0
+                    }
+                ],
+                "avgE2ELatency": 7560.816500000001,
+                "avgPowerConsumption": 2764.0,
+                "availability": 0.36666666666666664,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 110623.77799999999,
+                    "count": 24
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2627.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2169.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2735.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 778.0
+                    }
+                ],
+                "avgE2ELatency": 4609.324083333333,
+                "avgPowerConsumption": 2077.25,
+                "availability": 0.36666666666666664,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 232357.30299999996,
+                    "count": 23
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2813.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2329.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2327.0
+                    }
+                ],
+                "avgE2ELatency": 10102.491434782607,
+                "avgPowerConsumption": 2489.6666666666665,
+                "availability": 0.4,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 257467.04400000002,
+                    "count": 18
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2877.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2253.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 3263.0
+                    }
+                ],
+                "avgE2ELatency": 14303.724666666669,
+                "avgPowerConsumption": 2797.666666666667,
+                "availability": 0.4,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 170912.804,
+                    "count": 22
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2668.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 1735.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 3453.0
+                    }
+                ],
+                "avgE2ELatency": 7768.763818181818,
+                "avgPowerConsumption": 2618.666666666667,
+                "availability": 0.43333333333333335,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 136331.357,
+                    "count": 15
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2639.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2169.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2963.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 1493.0
+                    }
+                ],
+                "avgE2ELatency": 9088.757133333333,
+                "avgPowerConsumption": 2316.0,
+                "availability": 0.43333333333333335,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 135676.83000000002,
+                    "count": 29
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2315.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 1809.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 4202.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4233.0
+                    }
+                ],
+                "avgE2ELatency": 4678.511379310346,
+                "avgPowerConsumption": 3139.75,
+                "availability": 0.4666666666666667,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 153967.78900000005,
+                    "count": 14
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3126.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 1629.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2590.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4640.0
+                    }
+                ],
+                "avgE2ELatency": 10997.699214285718,
+                "avgPowerConsumption": 2996.25,
+                "availability": 0.5,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 169258.50300000008,
+                    "count": 35
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3127.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2503.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2319.0
+                    }
+                ],
+                "avgE2ELatency": 4835.957228571431,
+                "avgPowerConsumption": 2649.6666666666665,
+                "availability": 0.5333333333333333,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 263633.831,
+                    "count": 29
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2928.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2714.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2652.0
+                    }
+                ],
+                "avgE2ELatency": 9090.82175862069,
+                "avgPowerConsumption": 2764.6666666666665,
+                "availability": 0.5666666666666667,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 92421.51100000001,
+                    "count": 30
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2595.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2175.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 4095.0
+                    }
+                ],
+                "avgE2ELatency": 3080.717033333334,
+                "avgPowerConsumption": 2955.0,
+                "availability": 0.6,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 152848.146,
+                    "count": 35
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2563.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2755.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 3626.0
+                    }
+                ],
+                "avgE2ELatency": 4367.089885714286,
+                "avgPowerConsumption": 2981.3333333333335,
+                "availability": 0.6333333333333333,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 284996.974,
+                    "count": 29
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3118.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3192.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 3272.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 1550.0
+                    }
+                ],
+                "avgE2ELatency": 9827.481862068966,
+                "avgPowerConsumption": 2783.0,
+                "availability": 0.6333333333333333,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 198819.87000000002,
+                    "count": 26
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2881.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2618.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2986.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 707.0
+                    }
+                ],
+                "avgE2ELatency": 7646.918076923078,
+                "avgPowerConsumption": 2298.0,
+                "availability": 0.6333333333333333,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 140739.41400000002,
+                    "count": 29
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2690.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3458.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2798.0
+                    }
+                ],
+                "avgE2ELatency": 4853.083241379311,
+                "avgPowerConsumption": 2982.0,
+                "availability": 0.6666666666666666,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 173019.24000000002,
+                    "count": 26
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2647.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3376.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 3449.0
+                    }
+                ],
+                "avgE2ELatency": 6654.586153846155,
+                "avgPowerConsumption": 3157.333333333333,
+                "availability": 0.6666666666666666,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 387067.4920000001,
+                    "count": 39
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2880.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2759.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 3468.0
+                    }
+                ],
+                "avgE2ELatency": 9924.807487179489,
+                "avgPowerConsumption": 3035.6666666666665,
+                "availability": 0.6666666666666666,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 129401.41400000003,
+                    "count": 31
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3152.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2993.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 3787.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 0.0
+                    }
+                ],
+                "avgE2ELatency": 4174.239161290324,
+                "avgPowerConsumption": 2483.0,
+                "availability": 0.6666666666666666,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 182415.34300000002,
+                    "count": 42
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2850.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3204.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 4322.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4874.0
+                    }
+                ],
+                "avgE2ELatency": 4343.222452380953,
+                "avgPowerConsumption": 3812.5,
+                "availability": 0.6666666666666666,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 163622.56199999998,
+                    "count": 40
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2834.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2884.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 4389.0
+                    }
+                ],
+                "avgE2ELatency": 4090.5640499999995,
+                "avgPowerConsumption": 3369.0,
+                "availability": 0.6666666666666666,
+                "TimeLimit.truncated": false
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "e2eLatency": {
+                    "latency": 45850.805,
+                    "count": 7
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3125.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2015.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 1946.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 3882.0
+                    }
+                ],
+                "avgE2ELatency": 6550.115,
+                "avgPowerConsumption": 2742.0,
+                "availability": 0.3333333333333333,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 138653.694,
+                    "count": 17
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3019.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2736.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2343.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 3987.0
+                    }
+                ],
+                "avgE2ELatency": 8156.0996470588225,
+                "avgPowerConsumption": 3021.25,
+                "availability": 0.36666666666666664,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 238747.74499999997,
+                    "count": 28
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2920.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2533.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 4504.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4113.0
+                    }
+                ],
+                "avgE2ELatency": 8526.705178571427,
+                "avgPowerConsumption": 3517.5,
+                "availability": 0.36666666666666664,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 137123.19599999997,
+                    "count": 15
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2469.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2702.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2836.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4149.0
+                    }
+                ],
+                "avgE2ELatency": 9141.546399999997,
+                "avgPowerConsumption": 3039.0,
+                "availability": 0.36666666666666664,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 264050.05899999995,
+                    "count": 20
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2597.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2920.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 3079.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4318.0
+                    }
+                ],
+                "avgE2ELatency": 13202.502949999998,
+                "avgPowerConsumption": 3228.5,
+                "availability": 0.4,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 193556.252,
+                    "count": 25
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3096.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3231.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 3627.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 658.0
+                    }
+                ],
+                "avgE2ELatency": 7742.250080000001,
+                "avgPowerConsumption": 2653.0,
+                "availability": 0.43333333333333335,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 198374.41900000002,
+                    "count": 24
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3432.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3110.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2840.0
+                    }
+                ],
+                "avgE2ELatency": 8265.600791666668,
+                "avgPowerConsumption": 3127.3333333333335,
+                "availability": 0.4666666666666667,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 148284.273,
+                    "count": 20
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2998.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3118.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2490.0
+                    }
+                ],
+                "avgE2ELatency": 7414.21365,
+                "avgPowerConsumption": 2868.6666666666665,
+                "availability": 0.5,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 159165.93000000002,
+                    "count": 24
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2416.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3149.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2292.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 2979.0
+                    }
+                ],
+                "avgE2ELatency": 6631.913750000001,
+                "avgPowerConsumption": 2709.0,
+                "availability": 0.5333333333333333,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 169936.92600000004,
+                    "count": 27
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2682.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3106.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 1166.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4492.0
+                    }
+                ],
+                "avgE2ELatency": 6293.960222222224,
+                "avgPowerConsumption": 2861.5,
+                "availability": 0.5666666666666667,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 214882.66900000002,
+                    "count": 17
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3257.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3110.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 2455.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4095.0
+                    }
+                ],
+                "avgE2ELatency": 12640.157000000001,
+                "avgPowerConsumption": 3229.25,
+                "availability": 0.5666666666666667,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 85582.784,
+                    "count": 18
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3190.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3246.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 977.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 2877.0000000000005
+                    }
+                ],
+                "avgE2ELatency": 4754.599111111111,
+                "avgPowerConsumption": 2572.5,
+                "availability": 0.5666666666666667,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 237004.70900000003,
+                    "count": 21
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2604.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3173.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 1703.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4378.0
+                    }
+                ],
+                "avgE2ELatency": 11285.938523809526,
+                "avgPowerConsumption": 2964.5,
+                "availability": 0.5666666666666667,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 195169.29799999995,
+                    "count": 34
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2592.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3321.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4669.0
+                    }
+                ],
+                "avgE2ELatency": 5740.273470588234,
+                "avgPowerConsumption": 3527.333333333333,
+                "availability": 0.5666666666666667,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 104560.845,
+                    "count": 27
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3025.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3234.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4929.0
+                    }
+                ],
+                "avgE2ELatency": 3872.623888888889,
+                "avgPowerConsumption": 3729.3333333333335,
+                "availability": 0.5666666666666667,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 208693.93699999998,
+                    "count": 41
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3612.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3514.0
+                    },
+                    {
+                        "nodename": "ed-node3",
+                        "value": 4248.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4604.0
+                    }
+                ],
+                "avgE2ELatency": 5090.096024390244,
+                "avgPowerConsumption": 3994.5,
+                "availability": 0.6,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 427782.16800000006,
+                    "count": 23
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3423.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3232.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4256.0
+                    }
+                ],
+                "avgE2ELatency": 18599.224695652178,
+                "avgPowerConsumption": 3637.0,
+                "availability": 0.6333333333333333,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 289495.473,
+                    "count": 43
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 3268.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3639.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 1517.0
+                    }
+                ],
+                "avgE2ELatency": 6732.452860465116,
+                "avgPowerConsumption": 2807.9999999999995,
+                "availability": 0.6666666666666666,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 293057.341,
+                    "count": 28
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2809.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 3443.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4587.0
+                    }
+                ],
+                "avgE2ELatency": 10466.333607142858,
+                "avgPowerConsumption": 3613.0,
+                "availability": 0.7,
+                "TimeLimit.truncated": false
+            }
+        ],
+        [
+            {
+                "e2eLatency": {
+                    "latency": 155744.46500000003,
+                    "count": 46
+                },
+                "powerConsumptions": [
+                    {
+                        "nodename": "ed-node1",
+                        "value": 2433.0
+                    },
+                    {
+                        "nodename": "ed-node2",
+                        "value": 2950.0
+                    },
+                    {
+                        "nodename": "ed-node4",
+                        "value": 4622.0
+                    }
+                ],
+                "avgE2ELatency": 3385.7492391304354,
+                "avgPowerConsumption": 3335.0,
+                "availability": 0.7,
+                "TimeLimit.truncated": false
+            }
+        ]
+    ]
+]
